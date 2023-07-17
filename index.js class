@@ -1,0 +1,6 @@
+function splitAndMerge(string, separator) {
+  return
+}
+
+const string= "My name is John";
+const seperator= string.split("");
